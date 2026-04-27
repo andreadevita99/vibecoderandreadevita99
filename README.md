@@ -50,22 +50,19 @@ My main key strengths:<br>
 }
 ```
 
-**✨In my free time, I like:**
-```json
-{
-  "Chilling 🧘"
-  "Play with my dog 🐶"
-  "Drink a lot of coffee ☕️"
-  "Hit the gym 💪"
-  "Go for a bike ride 🚲"
-  "Running / Jogging 👟"
-  "Read a lot of books on my Kindle 📚"
-  "Listen to music (maybe a good LP) 🎧"
-  "Hang out with friends 😉"
-  "Snowboard 🏂, but I want to learn how to ski 🎿"
-  "LEGO 🧱"
-}
-```
+**✨In my free time, I like:**<br>
+ - "Chilling 🧘"
+ - "Play with my dog 🐶"
+ - "Drink a lot of coffee ☕️"
+ - "Hit the gym 💪"
+ - "Go for a bike ride 🚲"
+ - "Running / Jogging 👟"
+ - "Read a lot of books on my Kindle *(I love biographies and autobiographies of successful people)* 📚"
+ - "Listen to music *(maybe a good LP)* 🎧"
+ - "Watch documentaries/docu-series"
+ - "Hang out with friends 😉"
+ - "Snowboard 🏂, *but I want to learn how to ski 🎿* "
+ - "LEGO 🧱"
 
 <h4 align="left">Social:</h4>
 <p align="left">
