@@ -50,7 +50,7 @@ My main key strengths:<br>
 }
 ```
 
-**✨In my free time, I like:**<br>
+✨In my free time, I like:<br>
  - Chilling 🧘
  - Play with my dog 🐶
  - Drink a lot of coffee ☕️
